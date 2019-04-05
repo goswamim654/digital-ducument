@@ -1,0 +1,5 @@
+[03-Apr-2019 18:44:17 UTC] PHP Notice:  Undefined index: image in /home/ss39e3e7e612/public_html/Files/digital-doc/generate-pdf.php on line 5
+[03-Apr-2019 18:44:17 UTC] PHP Warning:  imagecreatefrompng(@): failed to open stream: No such file or directory in /home/ss39e3e7e612/public_html/Files/digital-doc/plugins/tcpdf/tcpdf.php on line 7034
+[04-Apr-2019 18:05:42 UTC] PHP Notice:  Trying to get property 'content' of non-object in /home/ss39e3e7e612/public_html/Files/digital-doc/view-template.php on line 11
+[05-Apr-2019 08:35:59 UTC] PHP Notice:  Undefined variable: id in /home/ss39e3e7e612/public_html/Files/digital-doc/view-template.php on line 53
+[05-Apr-2019 08:35:59 UTC] PHP Notice:  Undefined variable: content in /home/ss39e3e7e612/public_html/Files/digital-doc/view-template.php on line 55
